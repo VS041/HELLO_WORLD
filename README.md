@@ -1,2 +1,2 @@
 # HELLO_WORLD
-Hello World program
+This is Hello World program in JAVA Script.
